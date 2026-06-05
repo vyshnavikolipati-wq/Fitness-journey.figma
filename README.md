@@ -25,6 +25,9 @@ Workout Time
 Weekly Progress
 Navigation button to Home Screen
 
+Live Prototype:
+Click here to try the app in figma:
+https://www.figma.com/proto/mMPVHdwN6JAAhoyMNABZIw?node-id=0-1&t=e0decQ6j6z36Enbv-6
 🎨 Design Highlights:
 Dark theme with vibrant green accents for a modern fitness look
 Consistent visual hierarchy and spacing
