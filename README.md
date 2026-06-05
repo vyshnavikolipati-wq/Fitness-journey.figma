@@ -1,7 +1,9 @@
 # Fitness-journey.figma
 🏋️ Fitness App Signup Flow – UI/UX Design
 Designed a clean and user-friendly Fitness Mobile App Signup Flow focused on providing a seamless onboarding experience for new users.
+
 📱 Screens Included:
+
 ✅ Welcome Screen
 Motivational tagline: "Track. Train. Transform."
 Clear call-to-action button: "Join the Club"
@@ -15,12 +17,14 @@ Easy-to-use input boxes
 Prominent Verify button
 ✅ Success Dashboard Screen
 Personalized welcome message
+
 Fitness statistics display:
 Steps Taken
 Calories Burned
 Workout Time
 Weekly Progress
 Navigation button to Home Screen
+
 🎨 Design Highlights:
 Dark theme with vibrant green accents for a modern fitness look
 Consistent visual hierarchy and spacing
